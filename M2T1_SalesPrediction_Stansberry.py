@@ -10,4 +10,4 @@ profit = total_sales * 0.23
 
 print ('The profit is $', format(profit, ',.2f'))
 
-#hAnd that shoooould make everything work 
+# And that shoooould make everything work 
